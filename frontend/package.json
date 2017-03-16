@@ -5,7 +5,11 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.15.3",
-    "nuxt": "^0.9.9"
+    "feathers": "^2.1.1",
+    "feathers-client": "^1.9.0",
+    "feathers-socketio": "^1.5.2",
+    "nuxt": "^0.9.9",
+    "socket.io-client": "^1.7.3"
   },
   "scripts": {
     "start": "PORT=4000 nuxt"
