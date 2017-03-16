@@ -1,0 +1,13 @@
+{
+  "name": "chat-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "nuxt": "^0.9.9"
+  },
+  "scripts": {
+    "start": "PORT=4000 nuxt"
+  }
+}
